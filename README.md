@@ -1,3 +1,7 @@
+## ❓ About me 
+  Front-end Developer. Self-taught person
+
+
 ## ⚙️ Technologies & Tools
 <div>
   <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' height='80' width='80' alt='HTML5'>
