@@ -1,11 +1,24 @@
 ## ⚙️ Technologies & Tools
-![](https://img.shields.io/badge/-Html5-grey?logo=html5&style=plastic&logoWidth=20)
-&nbsp;&nbsp;![](https://img.shields.io/badge/-Css3-grey?logo=css3&style=plastic)
-&nbsp;&nbsp;![](https://img.shields.io/badge/-JavaScript-grey?logo=javascript&style=plastic)
-&nbsp;&nbsp;![](https://img.shields.io/badge/-React-grey?logo=react&style=plastic)
-&nbsp;&nbsp;![](https://img.shields.io/badge/-Git-grey?logo=git&style=plastic)
-
+<div>
+  <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' height='80' width='80' alt='HTML5'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' height='80' width='80' alt='CSS3'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/sass.png' height='80' width='80' alt='SCSS'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' height='80' width='80' alt='Javascript'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' height='80' width='80' alt='React'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/material-ui.png' height='80' width='80' alt='Material-ui'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/bootstrap.png' height='80' width='80' alt='Bootstrap'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/git.png' height='80' width='80' alt='GIT'>
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibonom&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibonom&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibonom&count_private=true&show_icons=true&theme=midnight-purple&hide=issues)
