@@ -30,4 +30,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibonom&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibonom&count_private=true&show_icons=true&theme=midnight-purple&hide=issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibonom&count_private=true&show_icons=true&theme=midnight-purple&hide=issues&include_all_commits)
