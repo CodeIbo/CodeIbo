@@ -1,8 +1,13 @@
-## ❓ About me 
-  Front-end Developer. Self-taught person
+<h1>❓ About me </h1>
+<h3 align="center"> Heeeeeellooo! </h3>
 
+<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow . I'm self taught person ,constantly improving my skill set. I love work from designing idea to programing logic and build amazing apps. You can check my pinned projects! After hours passionate about computer games.</i> </p>
+<br/>
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/83504862/170799579-e2852030-763f-4640-bdbd-222990456ef0.gif' height='200' width='400'>
+</p>
 
-## ⚙️ Technologies & Tools
+<h2> ⚙️ Technologies & Tools </h2>
 <div>
   <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' height='80' width='80' alt='HTML5'>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +26,7 @@
   <img src='https://img.icons8.com/color/344/git.png' height='80' width='80' alt='GIT'>
 </div>
 
-## &#x1f4c8; GitHub Stats
+<h2> &#x1f4c8; GitHub Stats </h2>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibonom&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
