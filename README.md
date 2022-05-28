@@ -1,7 +1,7 @@
 <h1>❓ About me </h1>
 <h3 align="center"> Heeeeeellooo! </h3>
 
-<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow . I'm self taught person ,constantly improving my skill set. I love work from designing idea to programing logic and build amazing apps. You can check my pinned projects! After hours passionate about computer games.</i> </p>
+<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow. I'm self taught person, constantly improving my skill set. I love work from designing idea to programing logic and build amazing apps. You can check my pinned projects! After hours passionate about computer games.</i> </p>
 <br/>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/83504862/170799579-e2852030-763f-4640-bdbd-222990456ef0.gif' height='200' width='400'>
