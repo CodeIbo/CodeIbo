@@ -26,6 +26,14 @@
   <img src='https://img.icons8.com/color/344/git.png' height='80' width='80' alt='GIT'>
 </div>
 
+<h2>📍 Road map</h2>
+<div>
+  <img src='https://img.icons8.com/color/344/redux.png' height='80' width='80' alt='REDUX'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/typescript.png' height='80' width='80' alt='TypeScript'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/webpack.png' height='80' width='80' alt='right_arrow'>
+<div>
 <h2> &#x1f4c8; GitHub Stats </h2>
 
 
