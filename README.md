@@ -24,6 +24,8 @@
   <img src='https://img.icons8.com/color/344/bootstrap.png' height='80' width='80' alt='Bootstrap'>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/git.png' height='80' width='80' alt='GIT'>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/python--v1.png' height='80' width='80' alt='Python' > 
 </div>
 
 <h2>📍 Road map</h2>
