@@ -21,20 +21,25 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/material-ui.png' height='80' width='80' alt='Material-ui'>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/redux.png' height='80' width='80' alt='REDUX'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/typescript.png' height='80' width='80' alt='TypeScript'>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/bootstrap.png' height='80' width='80' alt='Bootstrap'>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/git.png' height='80' width='80' alt='GIT'>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/python--v1.png' height='80' width='80' alt='Python' > 
+   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2>📍 Road map</h2>
 <div>
-  <img src='https://img.icons8.com/color/344/redux.png' height='80' width='80' alt='REDUX'>
+  <img src='https://img.icons8.com/color/344/webpack.png' height='80' width='80' alt='Webpack'>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://img.icons8.com/color/344/typescript.png' height='80' width='80' alt='TypeScript'>
+  <img src='https://iconape.com/wp-content/files/sm/371377/svg/371377.svg' height='80' width='80' alt='ReactRouter'>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://img.icons8.com/color/344/webpack.png' height='80' width='80' alt='right_arrow'>
+  <img src='https://pankod.github.io/superplate/img/react-query.svg' height='80' width='80' alt='ReactQuery'>
 <div>
 <h2> &#x1f4c8; GitHub Stats </h2>
 
