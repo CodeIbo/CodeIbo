@@ -31,6 +31,8 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/python--v1.png' height='80' width='80' alt='Python' > 
    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://img.icons8.com/color/344/angularjs.png' height='80' width='80' alt='Angular' > 
+   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2>📍 Road map</h2>
