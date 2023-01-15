@@ -46,5 +46,5 @@
 <h2> &#x1f4c8; GitHub Stats </h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibonom&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibonom&count_private=true&show_icons=true&theme=midnight-purple&hide=issues&include_all_commits)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Ibonom&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Ibonom&count_private=true&show_icons=true&theme=midnight-purple&hide=issues&include_all_commits)
