@@ -1,7 +1,6 @@
-<h1>❓ About me </h1>
-<h3 align="center"> Heeeeeellooo! </h3>
+<h1 align="center"> Hi :) </h1>
 
-<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow. I'm self taught person, constantly improving my skill set. I love work from designing idea to programing logic and build amazing apps. You can check my pinned projects! After hours passionate about computer games.</i> </p>
+<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow. I'm self taught person, constantly improving my skill set. Check my pinned projects! After hours gridning running and video games</i> </p>
 <br/>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/83504862/170799579-e2852030-763f-4640-bdbd-222990456ef0.gif' height='200' width='400'>
@@ -33,16 +32,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://img.icons8.com/color/344/angularjs.png' height='80' width='80' alt='Angular' > 
    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://iconape.com/wp-content/files/sm/371377/svg/371377.svg' height='80' width='80' alt='ReactRouter'>
 </div>
 
-<h2>📍 Road map</h2>
-<div>
-  <img src='https://img.icons8.com/color/344/webpack.png' height='80' width='80' alt='Webpack'>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://iconape.com/wp-content/files/sm/371377/svg/371377.svg' height='80' width='80' alt='ReactRouter'>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://pankod.github.io/superplate/img/react-query.svg' height='80' width='80' alt='ReactQuery'>
-<div>
 <h2> &#x1f4c8; GitHub Stats </h2>
 
 
