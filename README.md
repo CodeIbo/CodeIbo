@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :) </h1>
 
-<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow. I'm self taught person, constantly improving my skill set. Check my pinned projects! After hours gridning running and video games</i> </p>
+<p align="center"><i>My name is Dawid and I'm Front-end developer. I'm from Poland, living in Krakow. I'm self taught person, constantly improving my skill set. Check my pinned projects! After hours gridning video games</i> </p>
 <br/>
 <p align="center">
   <img src='https://user-images.githubusercontent.com/83504862/170799579-e2852030-763f-4640-bdbd-222990456ef0.gif' height='200' width='400'>
