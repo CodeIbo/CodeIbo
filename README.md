@@ -2,10 +2,10 @@
 
 <p align="center">
 
- <i> Hey! I'm Dawid — I code, create, analyze, and occasionally outrun my own thoughts on long-distance runs.
+ <i> Hey! I'm Dawid I code, create, analyze, and occasionally outrun my own thoughts on long-distance runs.
     I like building things that are useful or just plain cool. <br/>
     Outside of tech, I dive into creative projects, media stuff, and the occasional gaming marathon.<br/>
-    Not a fan of sticking to just one lane — and honestly, why would I? <i>
+    Not a fan of sticking to just one lane and honestly, why would I? <i>
 </p>
 <img src="https://media2.giphy.com/media/I6CYvaDXlkf3Ofkui5/giphy.gif" width="120" alt="sticker" />
 
